@@ -1,3 +1,7 @@
+[(주소)](https://github.com/tensorflow/tensorflow)
+
+## 참고 원문 ↓
+
 # TensorFlow Android Camera Demo
 
 This folder contains an example application utilizing TensorFlow for Android
