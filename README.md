@@ -217,3 +217,11 @@ NDK).
 Full CMake support for the demo is coming soon, but for now it is possible to
 build the TensorFlow Android Inference library using
 [tensorflow/tools/android/inference_interface/cmake](../../tools/android/inference_interface/cmake).
+
+
+
+
+<hr/>
+## with
+@Mithumbsup
+
