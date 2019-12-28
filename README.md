@@ -222,7 +222,7 @@ build the TensorFlow Android Inference library using
 
 
 <hr/>
-##with
+## with
 
 @Mithumbsup
 
